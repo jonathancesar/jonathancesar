@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Jonathan César 🖖
 
-#### Desenvolvedor Front-end com experiência em aplicações do setor financeiro e meios de pagamento. Atuo com Angular no desenvolvimento de soluções escaláveis e bem estruturadas. Apaixonado por tecnologia e atualmente aprofundando meus conhecimentos no mundo do backend 🚀
+#### Desenvolvedor Front-end com experiência em aplicações do setor financeiro e meios de pagamento. Atuo com Angular no desenvolvimento de soluções escaláveis e bem estruturadas. Atualmente aprofundando meus conhecimentos no mundo do backend 🚀
 
 
 #### Contato Profissional: 
